@@ -5,6 +5,7 @@
 #include <iostream>
 #include <cmath>
 #include <vector>
+#include <string>
 #endif
 
 #include <arpa/inet.h>

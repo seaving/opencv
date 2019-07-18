@@ -38,9 +38,10 @@ int main(int argc, char **argv)
 	//example_chennel_split(img1_file);
 	//example_chennel_split_and_merge(img1_file, img2_file);
 	//example_contrast_and_bright(img1_file);
-
 	//example_blur(img1_file);
-	example_gaussian_blur(img1_file);
+	//example_gaussian_blur(img1_file);
+	example_dilate(img1_file);
+	//example_erode(img1_file);
 
 	return _main_loop();
 }

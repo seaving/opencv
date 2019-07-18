@@ -1,5 +1,5 @@
-#ifndef __EXAMPLE_BLUR_H__
-#define __EXAMPLE_BLUR_H__
+#ifndef __EXAMPLE_BLUR_HPP__
+#define __EXAMPLE_BLUR_HPP__
 
 /********************************************************************************
 * @文件名: example-blur.hpp example-blur.cpp

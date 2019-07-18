@@ -18,7 +18,9 @@
 #include "example-roi.hpp"
 #include "example-channelSplit.hpp"
 #include "example-contrastBright.hpp"
-#include "example-blur.h"
+#include "example-blur.hpp"
+#include "example-dilate.hpp"
+#include "example-erode.hpp"
 
 #endif
 
